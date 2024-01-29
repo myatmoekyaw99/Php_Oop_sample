@@ -1,0 +1,18 @@
+{
+    "name": "mmk/assignment_7",
+    "authors": [
+        {
+            "name": "mmk",
+            "email": "myat1999kyaw@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "config\\": "config/",
+            "view\\": "view/"
+        }
+    }
+}
